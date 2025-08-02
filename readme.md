@@ -47,9 +47,15 @@ Data_Science_Job_Salaries/
    ```bash
    git clone https://github.com/shreya293/Data_Science_Job_Salaries
    cd data-science-job-salaries
-
 2.  Create and activate a virtual environment(Optional)
    ```bash
    python -m venv job
    job\Scripts\activate
+3. Install Dependencies
+   ```bash 
+   pip install -r requirements.txt
+4. Run the App
+   ```bash
+   streamlit run app/streamlit_app.py
+
 
