@@ -53,15 +53,3 @@ Data_Science_Job_Salaries/
    python -m venv job
    job\Scripts\activate
 
-
-3.  Install dependencies
-   ```bash
-   pip install -r requirements.txt
-
-
-4.  Run the App
-   ```bash
-   streamlit run app/streamlit_app.py
-
-
-
