@@ -1,5 +1,7 @@
 # 📊 Data Science Job Salaries Dashboard
 
+Tableau Dashboard: https://public.tableau.com/app/profile/shreya.singh.chauhan/viz/GlobalDataScienceJobSalariesDashboard/GlobalDataScienceJobSalaries?publish=yes
+
 This project is an interactive dashboard built using **Streamlit** that visualizes data science job salary trends across various roles, locations, and company types.
 
 ## 🚀 Features
