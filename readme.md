@@ -22,8 +22,10 @@ This project is an interactive dashboard built using **Streamlit** that visualiz
 ## 🗂️ Project Structure
 
 Data_Science_Job_Salaries/
+
 │
 ├── app/
+
 │ └── streamlit_app.py # Main Streamlit app
 ├── data/
 │ └── Data Science Job Salaries.csv
