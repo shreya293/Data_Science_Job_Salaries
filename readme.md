@@ -41,9 +41,7 @@ Data_Science_Job_Salaries/
 │
 └── model.py # (Optional) ML/analysis logic
 
-├
-
-── notebooks/
+├── notebooks/
 
 │ 
 └── analysis.ipynb # Exploratory analysis
