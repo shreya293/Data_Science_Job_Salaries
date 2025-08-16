@@ -28,7 +28,6 @@ Data_Science_Job_Salaries/
 ├── app/
 
 │ 
-
 └── streamlit_app.py # Main Streamlit app
 
 ├── data/
@@ -47,8 +46,7 @@ Data_Science_Job_Salaries/
 │ 
 └── analysis.ipynb # Exploratory analysis
 
-├
-── requirements.txt # All dependencies
+├── requirements.txt # All dependencies
 
 └── README.md # This file
 
