@@ -24,16 +24,32 @@ This project is an interactive dashboard built using **Streamlit** that visualiz
 Data_Science_Job_Salaries/
 
 │
+
 ├── app/
 
-│ └── streamlit_app.py # Main Streamlit app
+│ 
+
+└── streamlit_app.py # Main Streamlit app
+
 ├── data/
-│ └── Data Science Job Salaries.csv
-├── src/
-│ └── model.py # (Optional) ML/analysis logic
-├── notebooks/
-│ └── analysis.ipynb # Exploratory analysis
-├── requirements.txt # All dependencies
+
+│
+└── Data Science Job Salaries.csv
+
+├
+── src/
+
+│
+└── model.py # (Optional) ML/analysis logic
+├
+── notebooks/
+
+│ 
+└── analysis.ipynb # Exploratory analysis
+
+├
+── requirements.txt # All dependencies
+
 └── README.md # This file
 
 
